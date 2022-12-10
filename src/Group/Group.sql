@@ -26,7 +26,7 @@ from staffs
 
 
 4.
-SELECT max(st_salary), st_role
+SELECT max(st_salary)
 FROM staffs
 where st_role = 'Janitor'
 
