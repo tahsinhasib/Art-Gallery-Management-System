@@ -23,7 +23,7 @@ FROM staffs
 
 3.
 SELECT st_name,
-        st_salary,
+        st_salary
 FROM staffs
 WHERE st_salary > 15000
 
