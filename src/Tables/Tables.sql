@@ -28,7 +28,7 @@ CREATE TABLE arts_exhibition (
     art_type VARCHAR2(20),
     art_title VARCHAR2(20),
     art_price FLOAT,
-    cus_id NUMBER(10) CONSTRAINT cus_ex_id_fk REFERENCES arts_exhibition(art_id)
+    ex_id NUMBER(10) CONSTRAINT arts_ex_id_fk REFERENCES arts_exhibition(art_id)
 );
 
 
