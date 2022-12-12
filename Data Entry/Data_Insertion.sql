@@ -6,8 +6,6 @@
 */
 
 
-
-
 -- table 3.
 insert into exhibitions values (101,'17-SEP-2015','01-JUN-2015','The Art City','Adidas',101)
 insert into exhibitions values (105,'01-JAN-2018','10-AUG-2017','Context House','Nike',102)
