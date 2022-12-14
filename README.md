@@ -1,6 +1,6 @@
 # Art Gallery Management System
 
-A databse project using MySQL
+A database project using MySQL
 
 The project contains,
 1. Project Title, Name and ID of group memebers
